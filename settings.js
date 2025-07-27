@@ -14,12 +14,12 @@ const chalk = require('chalk')
 global.SESSION_ID = process.env.SESSION_ID || "SESSION_ID_HERE" // session id
 
 
-global.ownernomer = process.env.OWNER_NUMBER || "255697608274"
+global.ownernomer = process.env.OWNER_NUMBER || "260771798128"
 
-global.ownername = process.env.OWNER_NAME || "𝐷𝛥𝛮𝛮𝑌"
+global.ownername = process.env.OWNER_NAME || "CYRUS"
 
 
-global.ownernumber = process.env.OWNER_NUMBER2 || '255697608274'  
+global.ownernumber = process.env.OWNER_NUMBER2 || '260771798128'  
 
 
 //put your phone number above
@@ -34,23 +34,23 @@ global.prefa = [',','!','.','#','&']
 
 
 
-global.autostatusReact = true //status reactions
+global.autostatusReact = false //status reactions
 
 global.autoreact = false // autoreact
 
 global.autoRecording = false //auto recording
 
-global.autoTyping = true //auto typing
+global.autoTyping = false //auto typing
 
 global.autorecordtype = false //auto typing + recording
 
 global.autoread = false //auto read messages
 
-global.autobio = true //auto update bio
+global.autobio = false //auto update bio
 
 global.anti91 = false //auto block +91 
 
-global.autoswview = true //auto view status/story
+global.autoswview = false //auto view status/story
 
 
 //Thank you for using 𝓒𝓡𝓔𝓔𝓟𝓨_𝓜𝓓-𝓥2
@@ -76,19 +76,19 @@ global.mess = {
 
 global.ytname = "YT: https://www.youtube.com/@creepy_technology";
 global.socialm = "GitHub: https://github.com/DannyTech20";
-global.location = "Arusha/Tanzania";
-global.ownername = "𝐷𝛥𝛮𝛮𝑌";
+global.location = "Lusaka/Zambia";
+global.ownername = "CYRUS";
 global.botname = "CREEPY_MD-V1"; 
 
 // Sticker details
 global.packname = "Creepy-Tech";
-global.author = "Danny";
+global.author = "CYRUS";
 
 // Console view/theme
 global.themeemoji = "🤖";
-global.wm = "Danny";
+global.wm = "CYRUS";
 
-global.link = "https://whatsapp.com/channel/0029VacQFw65Ui2gGv0Kwk1r";
+global.link = "https://whatsapp.com/channel/0029VaoIqE1HbFV2kxWFeo10";
 
 
 
